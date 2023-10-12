@@ -102,6 +102,9 @@ This is a JSON file that contain the mail server settings for outgoing mails.
 
 # Contact Information
 
-Developed by Marcelo Freri. Contact me at mfreri@proton.me. 
+Developed by Marcelo Freri.
+
+Contact me at contact@mfreri.com.
+
 Follow me at https://mastodon.social/@mfreri.
 
