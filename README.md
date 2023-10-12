@@ -2,7 +2,7 @@
 
 This is an application to send mails to a mail list. It receives a spreadsheet
 with the mail addresses and a file with the content, then send the content to
-every mail listed on the spreadsheet.
+every mail listed in the spreadsheet.
 
 
 ## Usage
