@@ -15,7 +15,7 @@ import sys
 
 _VERSION = "1.1"
 _DATE = "2023-05-05"
-_CONTACT = "mfreri@proton.me"
+_CONTACT = "info@mfreri.com"
 _HELP = f"""\
 Send mails to a list of recipients.
 
